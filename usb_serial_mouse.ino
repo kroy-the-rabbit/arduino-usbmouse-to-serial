@@ -6,7 +6,7 @@ USB     Usb;
 HIDBoot<HID_PROTOCOL_MOUSE>    HidMouse(&Usb);
 
 /* Pin where we received the RTS signal from pin 7 on DB9 */
-#define RTS_PROBE         3
+#define RTS_PROBE         7
 
 /* Flash a LED on startup/moused-up */
 #define LED               13
