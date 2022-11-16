@@ -12,5 +12,5 @@ The serial side of the code is from that repo as well, with the USB side being f
 Pictures of the build and "hat".  You could/should do this with a MAX232, but I didn't have any on hand:
 
 ![full build](build-A.jpg)
-![detached hat](build-A.jpg)
-![dirty hat underbelly](build-A.jpg)
+![detached hat](build-B.jpg)
+![dirty hat underbelly](build-C.jpg)
